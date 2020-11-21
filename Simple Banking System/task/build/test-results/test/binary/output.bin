@@ -1,0 +1,397 @@
+[1;31m
+Start test 1[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 2[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 3[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 4[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 5[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000002563338241
+Your card PIN:
+2902
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000005170715016
+Your card PIN:
+4161
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000009628686605
+Your card PIN:
+2142
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000003277103616
+Your card PIN:
+4796
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000008107240827
+Your card PIN:
+5092
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+4000002563338241
+4000005170715016
+4000009628686605
+4000003277103616
+4000008107240827
+[1;31m
+Start test 6[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000007434311053
+Your card PIN:
+3404
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter your card number:
+> 4000007434311053
+Enter your PIN:
+> 3404
+"You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 7[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000008886309330
+Your card PIN:
+4173
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter your card number:
+> 4000008886309330
+Enter your PIN:
+> 1871
+Wrong card number or PIN!
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 8[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000004416038325
+Your card PIN:
+2065
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter your card number:
+> 400000440556762
+Enter your PIN:
+> 2065
+Wrong card number or PIN!
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 9[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000003337183244
+Your card PIN:
+5421
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter your card number:
+> 4000003337183244
+Enter your PIN:
+> 5421
+"You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 1
+Balance: 0
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 10[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000003058923984
+Your card PIN:
+0985
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter your card number:
+> 4000003058923984
+Enter your PIN:
+> 0985
+"You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 2
+Enter Income:
+> 10000
+Income was added!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 0
+Bye!
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter your card number:
+> 4000003058923984
+Enter your PIN:
+> 0985
+"You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 2
+Enter Income:
+> 15000
+Income was added!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 11[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000000721981993
+Your card PIN:
+2683
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000003562369971
+Your card PIN:
+1097
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter your card number:
+> 4000003562369971
+Enter your PIN:
+> 1097
+"You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 3
+
+Transfer
+Enter card number:
+> 2000007269641764
+AProbably you made mistake in the card number. Please try again!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 3
+
+Transfer
+Enter card number:
+> 2000007269641768
+Such a card does not exist.
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 3
+
+Transfer
+Enter card number:
+> 4000000721981993
+,Enter how much money you want to transfer:
+	> 100000
+Not enough money!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 2
+Enter Income:
+> 20000
+Income was added!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 3
+
+Transfer
+Enter card number:
+> 4000000721981993
+,Enter how much money you want to transfer:
+> 10000
+
+Success!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 0
+Bye!
+[1;31m
+Start test 12[0m
+1. Create an account
+2. Log into account
+	0. Exit
+> 1
+Your card has been created
+Your card number:
+4000005880901773
+Your card PIN:
+5787
+1. Create an account
+2. Log into account
+	0. Exit
+> 2
+Enter your card number:
+> 4000005880901773
+Enter your PIN:
+> 5787
+"You have successfully logged in!
+1. Balance
+2. Add income
+3. Do transfer
+4. Close account
+5. Log out
+	0. Exit
+> 4
+The account has been closed!
+1. Create an account
+2. Log into account
+	0. Exit
+> 0
+Bye!
